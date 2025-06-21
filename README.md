@@ -1,6 +1,6 @@
 # task 7 updates
 * added imgui to game.cpp, such that users are able to see all objects in the scene. achieved through using tags to retrieve only objects that are tagged, to prevent repeated display of the same scene objects in different forms
-* imgui window can also control the update of rotation, position and colour of spot light; position and colour of point light, and colour of directional light
+* imgui window can also control the update of rotation, position and colour of spot light; position and colour of point light; and colour of directional light
 * changes are reflected on the receiver
 
 # setup
